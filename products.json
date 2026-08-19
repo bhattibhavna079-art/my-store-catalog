@@ -1,66 +1,61 @@
 [
-  {
-    "id": 101,
-    "cat": "Kids & Toys",
-    "name": "Wooden Alphabets & Numbers Puzzle Board",
-    "price": 299,
-    "oldPrice": 599,
-    "img": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400"
-  },
-  {
-    "id": 102,
-    "cat": "Kids & Toys",
-    "name": "Magic Practice Copybook Set (Reusable)",
-    "price": 199,
-    "oldPrice": 499,
-    "img": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400"
-  },
-  {
-    "id": 201,
-    "cat": "Footwear",
-    "name": "Lightweight Breathable Mesh Running Shoes",
-    "price": 499,
-    "oldPrice": 999,
-    "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
-  },
-  {
-    "id": 202,
-    "cat": "Footwear",
-    "name": "Extra Soft EVA Cloud Slides Pillow Slippers",
-    "price": 299,
-    "oldPrice": 599,
-    "img": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=400"
-  },
-  {
-    "id": 301,
-    "cat": "Home & Kitchen",
-    "name": "Handheld USB Electric Vegetable Chopper",
-    "price": 349,
-    "oldPrice": 699,
-    "img": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=400"
-  },
-  {
-    "id": 302,
-    "cat": "Home & Kitchen",
-    "name": "Stainless Steel Oil Sprayer Bottle for Cooking",
-    "price": 199,
-    "oldPrice": 399,
-    "img": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400"
-  },
-  {
-    "id": 401,
-    "cat": "Beauty & Care",
-    "name": "Jade Roller & Gua Sha Massager Set",
-    "price": 249,
-    "oldPrice": 499,
-    "img": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400"
-  },
-  {
-    "id": 501,
-    "cat": "Electronics",
-    "name": "Wireless Bluetooth TWS Earbuds LED Display",
-    "price": 499,
-    "oldPrice": 1299,
-    "img": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400"
-  }
+  { "id": 101, "cat": "Kids & Toys", "name": "Wooden Alphabets & Numbers Puzzle Board", "price": 299, "oldPrice": 599, "img": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400" },
+  { "id": 102, "cat": "Kids & Toys", "name": "Magic Practice Copybook Set (Reusable)", "price": 199, "oldPrice": 499, "img": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400" },
+  { "id": 103, "cat": "Kids & Toys", "name": "Magnetic Building Blocks Set (32 Pcs)", "price": 499, "oldPrice": 999, "img": "https://images.unsplash.com/photo-1566576721346-d4a3b4eaeb55?w=400" },
+  { "id": 104, "cat": "Kids & Toys", "name": "Montessori Feeling & Sorting Toy Set", "price": 349, "oldPrice": 699, "img": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400" },
+  { "id": 105, "cat": "Kids & Toys", "name": "Solar Powered DIY Robot Kit", "price": 599, "oldPrice": 1199, "img": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400" },
+  { "id": 106, "cat": "Kids & Toys", "name": "Tangram Wooden Shape Puzzles", "price": 249, "oldPrice": 499, "img": "https://images.unsplash.com/photo-1618842676088-c4d48a6a7c9d?w=400" },
+  { "id": 107, "cat": "Kids & Toys", "name": "Dancing & Talking Cactus Toy", "price": 349, "oldPrice": 699, "img": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?w=400" },
+  { "id": 108, "cat": "Kids & Toys", "name": "Rechargeable Stunt Remote Control Car", "price": 699, "oldPrice": 1399, "img": "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?w=400" },
+  { "id": 109, "cat": "Kids & Toys", "name": "Bubble Gun Blower Machine", "price": 299, "oldPrice": 599, "img": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400" },
+  { "id": 110, "cat": "Kids & Toys", "name": "LED Drawing Tablet LCD Writing Pad", "price": 249, "oldPrice": 499, "img": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=400" },
+  { "id": 111, "cat": "Kids & Toys", "name": "Dancing Duck with Music & Lights", "price": 399, "oldPrice": 799, "img": "https://images.unsplash.com/photo-1566576721346-d4a3b4eaeb55?w=400" },
+  { "id": 112, "cat": "Kids & Toys", "name": "Mini Karaoke Bluetooth Speaker with Mic", "price": 799, "oldPrice": 1599, "img": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=400" },
+  { "id": 113, "cat": "Kids & Toys", "name": "Silicon Teether Keys & Rattle Set", "price": 199, "oldPrice": 399, "img": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400" },
+  { "id": 114, "cat": "Kids & Toys", "name": "Waterproof Baby Play Mat Folding", "price": 599, "oldPrice": 1199, "img": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400" },
+  { "id": 115, "cat": "Kids & Toys", "name": "Soft Plush Elephant Cushion", "price": 449, "oldPrice": 899, "img": "https://images.unsplash.com/photo-1559454403-b8fb88521f11?w=400" },
+  { "id": 116, "cat": "Kids & Toys", "name": "Baby Nail Trimmer Electric Set", "price": 299, "oldPrice": 599, "img": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400" },
+  { "id": 117, "cat": "Kids & Toys", "name": "Anti-Flat Head Baby Pillow", "price": 249, "oldPrice": 499, "img": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400" },
+
+  { "id": 201, "cat": "Footwear", "name": "Casual Breathable Mesh Running Shoes", "price": 499, "oldPrice": 999, "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400" },
+  { "id": 202, "cat": "Footwear", "name": "Canvas High-Top Unisex Sneakers", "price": 599, "oldPrice": 1199, "img": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=400" },
+  { "id": 203, "cat": "Footwear", "name": "Slip-On Casual Loafers for Men", "price": 449, "oldPrice": 899, "img": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=400" },
+  { "id": 204, "cat": "Footwear", "name": "Chunky Platform Sneakers for Women", "price": 699, "oldPrice": 1399, "img": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=400" },
+  { "id": 205, "cat": "Footwear", "name": "White Minimalist Casual Shoes", "price": 499, "oldPrice": 999, "img": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=400" },
+  { "id": 206, "cat": "Footwear", "name": "Extra Soft EVA Cloud Slides", "price": 299, "oldPrice": 599, "img": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=400" },
+  { "id": 207, "cat": "Footwear", "name": "Printed Clogs for Kids with Charms", "price": 249, "oldPrice": 499, "img": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=400" },
+  { "id": 208, "cat": "Footwear", "name": "Anti-Slip Bathroom Slippers", "price": 199, "oldPrice": 399, "img": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=400" },
+  { "id": 209, "cat": "Footwear", "name": "Orthopedic Memory Foam Slippers", "price": 349, "oldPrice": 699, "img": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=400" },
+  { "id": 210, "cat": "Footwear", "name": "Traditional Mojri Jutti for Men", "price": 499, "oldPrice": 999, "img": "https://images.unsplash.com/photo-1560343090-f0409e92791a?w=400" },
+  { "id": 211, "cat": "Footwear", "name": "Embroidered Rajasthani Jutti Women", "price": 399, "oldPrice": 799, "img": "https://images.unsplash.com/photo-1560343090-f0409e92791a?w=400" },
+  { "id": 212, "cat": "Footwear", "name": "Formal Monk Strap Shoes", "price": 799, "oldPrice": 1599, "img": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=400" },
+
+  { "id": 301, "cat": "Home & Kitchen", "name": "Handheld USB Electric Vegetable Chopper", "price": 349, "oldPrice": 699, "img": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=400" },
+  { "id": 302, "cat": "Home & Kitchen", "name": "Stainless Steel Oil Sprayer Bottle", "price": 199, "oldPrice": 399, "img": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400" },
+  { "id": 303, "cat": "Home & Kitchen", "name": "Silicon Stretch Lids Set (6 Pcs)", "price": 149, "oldPrice": 299, "img": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=400" },
+  { "id": 304, "cat": "Home & Kitchen", "name": "2-in-1 Soap Pump Dispenser Sponge", "price": 179, "oldPrice": 359, "img": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=400" },
+  { "id": 305, "cat": "Home & Kitchen", "name": "Electric Portable Mini Juicer Blender", "price": 499, "oldPrice": 999, "img": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=400" },
+  { "id": 306, "cat": "Home & Kitchen", "name": "Self-Wringing Flat Mop with Bucket", "price": 599, "oldPrice": 1199, "img": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=400" },
+  { "id": 307, "cat": "Home & Kitchen", "name": "Multi-Purpose Gap Cleaning Brush Set", "price": 129, "oldPrice": 259, "img": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=400" },
+  { "id": 308, "cat": "Home & Kitchen", "name": "Rechargeable Fabric Lint Remover", "price": 299, "oldPrice": 599, "img": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=400" },
+  { "id": 309, "cat": "Home & Kitchen", "name": "Under-Bed Clothes Storage Bags", "price": 349, "oldPrice": 699, "img": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=400" },
+
+  { "id": 401, "cat": "Beauty & Care", "name": "Ice Roller for Face & Eye Puffiness", "price": 179, "oldPrice": 399, "img": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400" },
+  { "id": 402, "cat": "Beauty & Care", "name": "Jade Roller & Gua Sha Massager Set", "price": 249, "oldPrice": 499, "img": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400" },
+  { "id": 403, "cat": "Beauty & Care", "name": "Blackhead Remover Vacuum Suction", "price": 399, "oldPrice": 799, "img": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400" },
+  { "id": 404, "cat": "Beauty & Care", "name": "Mini Facial Steamer Nano Mist", "price": 199, "oldPrice": 399, "img": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400" },
+  { "id": 405, "cat": "Beauty & Care", "name": "Silicon Face Scrubber Brush", "price": 99, "oldPrice": 199, "img": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400" },
+  { "id": 406, "cat": "Beauty & Care", "name": "Heatless Satin Silk Hair Curling Ribbon", "price": 149, "oldPrice": 299, "img": "https://images.unsplash.com/photo-1522337094846-8a8383853713?w=400" },
+  { "id": 407, "cat": "Beauty & Care", "name": "Large Matte Claw Hair Clips (Set of 4)", "price": 129, "oldPrice": 259, "img": "https://images.unsplash.com/photo-1522337094846-8a8383853713?w=400" },
+  { "id": 408, "cat": "Beauty & Care", "name": "Scalp Massager Shampoo Brush", "price": 119, "oldPrice": 239, "img": "https://images.unsplash.com/photo-1522337094846-8a8383853713?w=400" },
+
+  { "id": 501, "cat": "Electronics", "name": "Wireless Bluetooth TWS Earbuds LED", "price": 499, "oldPrice": 1299, "img": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400" },
+  { "id": 502, "cat": "Electronics", "name": "Smart Fitness Band Heart Rate", "price": 699, "oldPrice": 1499, "img": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400" },
+  { "id": 503, "cat": "Electronics", "name": "Foldable Desktop Mobile Stand", "price": 149, "oldPrice": 299, "img": "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=400" },
+  { "id": 504, "cat": "Electronics", "name": "Magnetic Wireless Car Phone Holder", "price": 249, "oldPrice": 499, "img": "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=400" },
+  { "id": 505, "cat": "Electronics", "name": "3-in-1 Multi-Cable Fast Charging Cord", "price": 199, "oldPrice": 399, "img": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=400" },
+  { "id": 506, "cat": "Electronics", "name": "Sunset Projection LED Lamp", "price": 299, "oldPrice": 699, "img": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=400" },
+  { "id": 507, "cat": "Electronics", "name": "USB RGB Ambient Desk Light Strip", "price": 249, "oldPrice": 499, "img": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=400" },
+  { "id": 508, "cat": "Electronics", "name": "Astronaut Starry Sky Galaxy Projector", "price": 799, "oldPrice": 1599, "img": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=400" },
+  { "id": 509, "cat": "Electronics", "name": "Portable Motion Sensor Night LED", "price": 179, "oldPrice": 359, "img": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=400" }
 ]
