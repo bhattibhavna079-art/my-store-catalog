@@ -1,1 +1,66 @@
-
+[
+  {
+    "id": 101,
+    "cat": "Kids & Toys",
+    "name": "Wooden Alphabets & Numbers Puzzle Board",
+    "price": 299,
+    "oldPrice": 599,
+    "img": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400"
+  },
+  {
+    "id": 102,
+    "cat": "Kids & Toys",
+    "name": "Magic Practice Copybook Set (Reusable)",
+    "price": 199,
+    "oldPrice": 499,
+    "img": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400"
+  },
+  {
+    "id": 201,
+    "cat": "Footwear",
+    "name": "Lightweight Breathable Mesh Running Shoes",
+    "price": 499,
+    "oldPrice": 999,
+    "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
+  },
+  {
+    "id": 202,
+    "cat": "Footwear",
+    "name": "Extra Soft EVA Cloud Slides Pillow Slippers",
+    "price": 299,
+    "oldPrice": 599,
+    "img": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=400"
+  },
+  {
+    "id": 301,
+    "cat": "Home & Kitchen",
+    "name": "Handheld USB Electric Vegetable Chopper",
+    "price": 349,
+    "oldPrice": 699,
+    "img": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=400"
+  },
+  {
+    "id": 302,
+    "cat": "Home & Kitchen",
+    "name": "Stainless Steel Oil Sprayer Bottle for Cooking",
+    "price": 199,
+    "oldPrice": 399,
+    "img": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400"
+  },
+  {
+    "id": 401,
+    "cat": "Beauty & Care",
+    "name": "Jade Roller & Gua Sha Massager Set",
+    "price": 249,
+    "oldPrice": 499,
+    "img": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400"
+  },
+  {
+    "id": 501,
+    "cat": "Electronics",
+    "name": "Wireless Bluetooth TWS Earbuds LED Display",
+    "price": 499,
+    "oldPrice": 1299,
+    "img": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400"
+  }
+]
